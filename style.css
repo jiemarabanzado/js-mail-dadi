@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#Mail-Es{
+    max-width: 500px;
+    margin: auto;
+    display: none;
+}
+#Email{
+    max-width: 300px;
+}
+.titolo{
+    margin-bottom: 10px;
+}
+button{
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
+.Esito{
+    font-size: 1.5rem;
+}
+#hint{
+    display: none;
+}

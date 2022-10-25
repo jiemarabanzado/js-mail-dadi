@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div>Quale esercizio vuoi vedere?</div>
+    <button id="OnlyMail" onclick="OnlyMail()">Mail</button>
+    <button id="OnlyDice" onclick="OnlyDice()">dadi</button>
+    <!--mail-->
+    <div id="Mail-Es">
+        <h2 class="titolo">Inserisci una mail</h2>
+        <input type="text" id="Email">
+        <button id="control" onclick="Verifica()"> Verifica</button>
+        <div id="Result"></div>
+        <button id="hint" onclick="Hint()">Suggerimento</button>
+    </div>
+    <!--gioco dei dadi-->
+    <div id="Gioco-dadi">
+        <h2 class="titolo">Gioco dei dadi</h2>
+        <button id="begin">Inizia</button>
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>
