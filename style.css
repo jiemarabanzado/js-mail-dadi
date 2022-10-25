@@ -25,3 +25,110 @@ button{
 #hint{
     display: none;
 }
+#Gioco-dadi{
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+}
+#one{
+    width: 150px;
+    height: 150px;
+    display: none;
+    margin: auto;
+    margin-bottom: 10px;
+}
+#two{
+    width: 150px;
+    height: 150px;
+    display: none;
+    margin: auto;
+    margin-bottom: 10px;
+}
+#three{
+    width: 150px;
+    height: 150px;
+    display: none;
+    margin: auto;
+    margin-bottom: 10px;
+}
+#four{
+    width: 150px;
+    height: 150px;
+    display: none;
+    margin: auto;
+    margin-bottom: 10px;
+}
+#five{
+    width: 150px;
+    height: 150px;
+    display: none;
+    margin: auto;
+    margin-bottom: 10px;
+}
+#six{
+    width: 150px;
+    height: 150px;
+    display: none;
+    margin: auto;
+    margin-bottom: 10px;
+}
+#oneU{
+    width: 150px;
+    height: 150px;
+    display: none;
+    margin: auto;
+    margin-bottom: 10px;
+}
+#twoU{
+    width: 150px;
+    height: 150px;
+    display: none;
+    margin: auto;
+    margin-bottom: 10px;
+}
+#threeU{
+    width: 150px;
+    height: 150px;
+    display: none;
+    margin: auto;
+    margin-bottom: 10px;
+}
+#fourU{
+    width: 150px;
+    height: 150px;
+    display: none;
+    margin: auto;
+    margin-bottom: 10px;
+}
+#fiveU{
+    width: 150px;
+    height: 150px;
+    display: none;
+    margin: auto;
+    margin-bottom: 10px;
+}
+#sixU{
+    width: 150px;
+    height: 150px;
+    display: none;
+    margin: auto;
+    margin-bottom: 10px;
+}
+img{
+    width: 150px;
+    height: 150px;
+    margin: auto;
+}
+#who{
+    display: none;
+}
+#user{
+    display: none;
+}
+#Winner{
+    font-size: 3rem;
+    padding-top: 10px;
+}
+#reset{
+    display: none;
+}
